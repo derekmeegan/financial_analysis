@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1621372215904.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3681029368",
+    "id" : "6A856DA6",
+    "lastKnownWriteTime" : 1621393770,
+    "last_content_update" : 1621393770116,
+    "path" : "~/Desktop/fs_analysis/financial_statement_analysis/model.R",
+    "project_path" : "model.R",
+    "properties" : {
+        "cursorPosition" : "4,29",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
